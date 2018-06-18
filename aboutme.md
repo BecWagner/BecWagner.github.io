@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: How much do you really want to know?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Becky Wagner. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am an optimist
+- I like to solve technical challenges
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I'm pretty lazy and don't want to type it out right now, so why don't you just check out [my LinkedIn](https://www.linkedin.com/in/becky-wagner-bb356924/) and it will answer **all** your questions.
