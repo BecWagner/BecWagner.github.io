@@ -16,7 +16,7 @@ I was a bit late coming in on Sunday and sadly missed the informative Sunday Sym
 
 ## Sessions
 
-I attended numerous sessions throughout the week, including but not limited to [Mark Rittman](), [Francesco Tissiott](), [Jerome Francoise](), [Stewart Bryson](), [Gabby Rubin and Matt Milela](), [Hookmax](). On Wednesday, I was invited to be on a [panel.]() We had a fantastic conversation with great audience participation.
+I attended numerous sessions throughout the week, including but not limited to [Mark Rittman](https://kscope18.odtug.com/page/presentations?name=bi-developer-to-data-engineer-with-oracle-analytics-cloud-data-lake-edition), [Francesco Tisiott](https://kscope18.odtug.com/page/presentations?name=devops-and-obiee-do-it-before-it-s-too-late), [Jerome Francoisse](https://kscope18.odtug.com/page/presentations?name=fast-data-using-oracle-data-integrator-with-spark-streaming-and-kafka), [Stewart Bryson](https://kscope18.odtug.com/page/presentations?name=devops-for-the-analytics-cloud-using-the-developer-cloud-service), [Gabby Rubin and Matt Milella](https://kscope18.odtug.com/page/presentations?name=oracle-analytics-cloud-strategy-and-roadmap), [Dmitry Kryuk](https://kscope18.odtug.com/page/presentations?name=odi-and-jython-work-together-to-better-control-your-environment). On Wednesday, I was invited to be on a [panel.](https://kscope18.odtug.com/page/bonus-sessions) We had a fantastic conversation with great audience participation.
 
 <img src="http://BecWagner.github.io/img/MarkSession.JPG" alt="MarkSession" style="width:300px;">
 
