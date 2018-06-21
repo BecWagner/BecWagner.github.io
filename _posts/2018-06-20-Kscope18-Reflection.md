@@ -18,7 +18,7 @@ Here is a recap of my week!
 
 ## AceDinner
 
-<img src="http://BecWagner.github.io/img/AceDinner.JPG" alt="AceDinner" style="width:300px;">
+<img src="http://BecWagner.github.io/img/Ace2.JPG" alt="Ace2" style="width:300px;"><img src="http://BecWagner.github.io/img/AceDinner.JPG" alt="AceDinner" style="width:300px;">
 
 ## 5K
 
@@ -26,7 +26,7 @@ Here is a recap of my week!
 
 ## Catching up with Friends
 
-<img src="http://BecWagner.github.io/img/Reunion2.JPG" alt="Reunion2" style="width:300px;"><img src="http://BecWagner.github.io/img/Reunion.JPG" alt="Reunion" style="width:300px;">
+<img src="http://BecWagner.github.io/img/Reunion2.JPG" alt="Reunion2" style="width:300px;"><img src="http://BecWagner.github.io/img/Reunion3.JPG" alt="Reunion3" style="width:300px;"><img src="http://BecWagner.github.io/img/Reunion.JPG" alt="Reunion" style="width:300px;">
 
 ## Representing US-Analytics
 
@@ -34,4 +34,4 @@ Here is a recap of my week!
 
 ## Special Event
 
-<img src="http://BecWagner.github.io/img/eventSarah.JPG" alt="EventSarah" style="width:300px;"><img src="http://BecWagner.github.io/img/Event.JPG" alt="Event" style="width:300px;"><img src="http://BecWagner.github.io/img/Event3.JPG" alt="Event3" style="width:300px;">
+<img src="http://BecWagner.github.io/img/eventSarah.JPG" alt="EventSarah" style="width:300px;"><img src="http://BecWagner.github.io/img/Event.JPG" alt="Event" style="width:300px;"><img src="http://BecWagner.github.io/img/Event3.JPG" alt="Event3" style="width:300px;"><img src="http://BecWagner.github.io/img/Event4.JPG" alt="Event4" style="width:300px;"><img src="http://BecWagner.github.io/img/Event5.JPG" alt="Event5" style="width:300px;"><img src="http://BecWagner.github.io/img/Event6.JPG" alt="Event6" style="width:300px;">
