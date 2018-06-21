@@ -21,12 +21,15 @@ I was a bit late coming in on Sunday and sadly missed the informative Sunday Sym
 I attended numerous sessions throughout the week, including but not limited to [Mark Rittman](https://kscope18.odtug.com/page/presentations?name=bi-developer-to-data-engineer-with-oracle-analytics-cloud-data-lake-edition), [Francesco Tisiott](https://kscope18.odtug.com/page/presentations?name=devops-and-obiee-do-it-before-it-s-too-late), [Jerome Francoisse](https://kscope18.odtug.com/page/presentations?name=fast-data-using-oracle-data-integrator-with-spark-streaming-and-kafka), [Stewart Bryson](https://kscope18.odtug.com/page/presentations?name=devops-for-the-analytics-cloud-using-the-developer-cloud-service), [Gabby Rubin and Matt Milella](https://kscope18.odtug.com/page/presentations?name=oracle-analytics-cloud-strategy-and-roadmap), [Dmitry Kryuk](https://kscope18.odtug.com/page/presentations?name=odi-and-jython-work-together-to-better-control-your-environment). On Wednesday, I was invited to be on a [panel.](https://kscope18.odtug.com/page/bonus-sessions) We had a fantastic conversation with great audience participation.
 
 <img src="http://BecWagner.github.io/img/MarkSession.JPG" alt="MarkSession" style="width:300px;">
+
 <img src="http://BecWagner.github.io/img/FrancescoSession.JPG" alt="FrancescoSession" style="width:300px;">
 
 <img src="http://BecWagner.github.io/img/GabbySession.JPG" alt="GabbySession" style="width:300px;">
+
 <img src="http://BecWagner.github.io/img/JeromeSession.JPG" alt="JeromeSession" style="width:300px;">
 
 <img src="http://BecWagner.github.io/img/HookmaxSession.JPG" alt="HookmaxSession" style="width:300px;">
+
 <img src="http://BecWagner.github.io/img/Panel.JPG" alt="Panel" style="width:300px;">
 
 *Photo Courtesy of [Francesco Tisiott](https://t.me/obihackers)*
@@ -34,8 +37,6 @@ I attended numerous sessions throughout the week, including but not limited to [
 ## AceDinner
 
 I was honored to join a fantastic group of people for dinner. There I was awarded Oracle Ace Associate, along side many other very deserving individuals.
-
-<img src="http://BecWagner.github.io/img/Ace2.JPG" alt="Ace2" style="width:300px;">
 
 <img src="http://BecWagner.github.io/img/AceDinner.JPG" alt="AceDinner" style="width:300px;">
 
