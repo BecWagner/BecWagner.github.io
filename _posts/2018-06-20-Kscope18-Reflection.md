@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kscope18 Reflection
+subtitle: The conference that keeps on giving
 ---
 
 Kscope is a whirlwind adventure. I have been very luck to be able to attend Kscope 3 years in a row.
@@ -30,7 +31,7 @@ Here is a recap of my week!
 
 <img src="http://BecWagner.github.io/img/Reunion2.JPG" alt="Reunion2" style="width:300px;"><img src="http://BecWagner.github.io/img/Reunion.JPG" alt="Reunion" style="width:300px;">
 
-##Representing US-Analytics
+##Representing US-Analytics##
 
 <img src="http://BecWagner.github.io/img/Punny.JPG" alt="Punny" style="width:300px;">
 
