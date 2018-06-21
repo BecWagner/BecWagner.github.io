@@ -29,11 +29,14 @@ I attended numerous sessions throughout the week, including but not limited to [
 <img src="http://BecWagner.github.io/img/HookmaxSession.JPG" alt="HookmaxSession" style="width:300px;">
 <img src="http://BecWagner.github.io/img/Panel.JPG" alt="Panel" style="width:300px;">
 
+*Photo Courtesy of [Francesco Tisiott](https://t.me/obihackers)*
+
 ## AceDinner
 
 I was honored to join a fantastic group of people for dinner. There I was awarded Oracle Ace Associate, along side many other very deserving individuals.
 
 <img src="http://BecWagner.github.io/img/Ace2.JPG" alt="Ace2" style="width:300px;">
+
 <img src="http://BecWagner.github.io/img/AceDinner.JPG" alt="AceDinner" style="width:300px;">
 
 *Photo courtesy of [Jorge Rimblas](https://twitter.com/rimblas/status/1006690513926414336)*
