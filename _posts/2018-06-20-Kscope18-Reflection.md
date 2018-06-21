@@ -32,7 +32,7 @@ I attended numerous sessions throughout the week, including but not limited to [
 
 <img src="http://BecWagner.github.io/img/Panel.JPG" alt="Panel" style="width:300px;">
 
-*Photo Courtesy of [Eric Brown](https://twitter.com/ELB666) via [#OBIHackers](t.me/obihackers/148221)*
+*Photo Courtesy of [Eric Brown](https://twitter.com/ELB666) via [#OBIHackers](https://t.me/obihackers/148221)*
 
 ## AceDinner
 
@@ -58,11 +58,11 @@ I've made some wonder friends at Kscope over the last few years. Several of them
 
 <img src="http://BecWagner.github.io/img/Reunion2.JPG" alt="Reunion2" style="width:300px;">
 
-*Photo Courtesy of [Mike Durran](https://twitter.com/mikedurran) via [#OBIHackers](t.me/obihackers/148176)*
+*Photo Courtesy of [Mike Durran](https://twitter.com/mikedurran) via [#OBIHackers](https://t.me/obihackers/148176)*
 
 <img src="http://BecWagner.github.io/img/Reunion3.JPG" alt="Reunion3" style="width:300px;">
 
-*Photo Courtesy of [Mike Durran](https://twitter.com/mikedurran) via [#OBIHackers](t.me/obihackers/148176)*
+*Photo Courtesy of [Mike Durran](https://twitter.com/mikedurran) via [#OBIHackers](https://t.me/obihackers/148176)*
 
 <img src="http://BecWagner.github.io/img/Reunion.JPG" alt="Reunion" style="width:300px;">
 
