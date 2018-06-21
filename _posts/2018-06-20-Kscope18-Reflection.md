@@ -22,9 +22,7 @@ I attended numerous sessions throughout the week, including but not limited to [
 
 <img src="http://BecWagner.github.io/img/GabbySession.JPG" alt="GabbySession" style="width:300px;"><img src="http://BecWagner.github.io/img/JeromeSession.JPG" alt="JeromeSession" style="width:300px;">
 
-<img src="http://BecWagner.github.io/img/HookmaxSession.JPG" alt="HookmaxSession" style="width:300px;">
-
-<img src="http://BecWagner.github.io/img/Panel.JPG" alt="Panel" style="width:300px;">
+<img src="http://BecWagner.github.io/img/HookmaxSession.JPG" alt="HookmaxSession" style="width:300px;"><img src="http://BecWagner.github.io/img/Panel.JPG" alt="Panel" style="width:300px;">
 
 ## AceDinner
 
