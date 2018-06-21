@@ -4,7 +4,7 @@ title: Kscope18 Reflection
 subtitle: The conference that keeps on giving
 ---
 
-Kscope is a whirlwind adventure. I have been very luck to be able to attend Kscope 3 years in a row.
+Kscope is a whirlwind adventure. I have been very lucky to be able to attend Kscope 3 years in a row.
 
 Here is a recap of my week!
 
