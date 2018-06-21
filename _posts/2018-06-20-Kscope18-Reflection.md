@@ -34,4 +34,4 @@ Here is a recap of my week!
 
 ## Special Event
 
-<img src="http://BecWagner.github.io/img/Event.JPG" alt="Event" style="width:300px;"><img src="http://BecWagner.github.io/img/Event3.JPG" alt="Event3" style="width:300px;"><img src="http://BecWagner.github.io/img/eventSarah.JPG" alt="EventSarah" style="width:200px;"><img src="http://BecWagner.github.io/img/Event4.JPG" alt="Event4" style="width:200px;"><img src="http://BecWagner.github.io/img/Event5.JPG" alt="Event5" style="width:200px;"><img src="http://BecWagner.github.io/img/Event6.JPG" alt="Event6" style="width:200px;">
+<img src="http://BecWagner.github.io/img/Event.JPG" alt="Event" style="width:300px;"><img src="http://BecWagner.github.io/img/Event3.JPG" alt="Event3" style="width:300px;"><img src="http://BecWagner.github.io/img/eventSarah.JPG" alt="EventSarah" style="width:200px;"><img src="http://BecWagner.github.io/img/Event4.JPG" alt="Event4" style="width:200px;"><img src="http://BecWagner.github.io/img/Event5.JPG" alt="Event5" style="width:200px;">
