@@ -12,7 +12,7 @@ Here is a recap of my week!
 
 I was a bit late coming in on Sunday and sadly missed the informative Sunday Symposium. However, I did arrive in time to attend the fun Welcome Reception where we were encouraged to dress as our favorite character.
 
-![Welcome Reception](http://BecWagner.github.io/img/WelcomeReception.JPG) { width=30% }
+![Welcome Reception](http://BecWagner.github.io/img/WelcomeReception.JPG){ width=30% }
 *Photo curtesy of [Wendy Wilson](https://twitter.com/wrkingtechworld/status/1006027015370231808)*
 
 !<img src="http://BecWagner.github.io/img/WelcomeReception.JPG" alt="WelcomeReception" style="width:300px;">
