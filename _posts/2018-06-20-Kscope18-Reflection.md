@@ -88,7 +88,7 @@ The special event this year was fantastic. Driving racing go-karts, daring the h
 
 <img src="http://BecWagner.github.io/img/Event3.JPG" alt="Event3" style="width:300px;">
 
-*Photo Courtesy of [Eric Brown](https://twitter.com/ELB666) via [#OBIHackers](https://t.me/obihackers)*
+*Photo Courtesy of [Eric Brown](https://twitter.com/ELB666) via [#OBIHackers](https://t.me/obihackers/148238)*
 
 <img src="http://BecWagner.github.io/img/eventSarah.JPG" alt="EventSarah" style="width:200px;">
 <img src="http://BecWagner.github.io/img/Event4.JPG" alt="Event4" style="width:200px;">
