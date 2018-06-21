@@ -32,7 +32,7 @@ I attended numerous sessions throughout the week, including but not limited to [
 
 ## AceDinner
 
-I was honored to join a fantastic group of people for dinner. There I was awarded Oracle Ace Associate, along side many others very deserving individuals.
+I was honored to join a fantastic group of people for dinner. There I was awarded Oracle Ace Associate, along side many other very deserving individuals.
 
 <img src="http://BecWagner.github.io/img/Ace2.JPG" alt="Ace2" style="width:300px;">
 <img src="http://BecWagner.github.io/img/AceDinner.JPG" alt="AceDinner" style="width:300px;">
