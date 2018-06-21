@@ -54,3 +54,7 @@ This year I was able to help out in our Vendor Booth which was a blast. I enjoye
 The special event this year was fantastic. Driving racing go-karts, daring the heights on the rope course, and of course rocking the bright colors!
 
 <img src="http://BecWagner.github.io/img/Event.JPG" alt="Event" style="width:300px;"><img src="http://BecWagner.github.io/img/Event3.JPG" alt="Event3" style="width:300px;"><img src="http://BecWagner.github.io/img/eventSarah.JPG" alt="EventSarah" style="width:200px;"><img src="http://BecWagner.github.io/img/Event4.JPG" alt="Event4" style="width:200px;"><img src="http://BecWagner.github.io/img/Event5.JPG" alt="Event5" style="width:200px;">
+
+## Conclusion
+
+Thank you ODTUG, the conference committee, US-Analytics, Oracle Ace Program, and many others for making this conference such an amazing event and allowing me to participate. I look forward to Kscope19 in Seattle!!
