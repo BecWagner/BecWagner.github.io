@@ -33,7 +33,7 @@ Here is a recap of my week!
 ## Representing US-Analytics
 
 <img src="http://BecWagner.github.io/img/Punny.JPG" alt="Punny" style="width:300px;">
-<img src="http://BecWagner.github.io/img/LiloStitch.JPG" alt="LiloStitch" style="width:300px;">
+<img src="http://BecWagner.github.io/img/LiloStitch2.JPG" alt="LiloStitch2" style="width:300px;">
 
 ## Special Event
 
