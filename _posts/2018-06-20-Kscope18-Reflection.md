@@ -91,7 +91,9 @@ The special event this year was fantastic. Driving racing go-karts, daring the h
 *Photo Courtesy of [Eric Brown](https://twitter.com/ELB666) via [#OBIHackers](https://t.me/obihackers/148238)*
 
 <img src="http://BecWagner.github.io/img/eventSarah.JPG" alt="EventSarah">
+
 <img src="http://BecWagner.github.io/img/Event4.JPG" alt="Event4">
+
 <img src="http://BecWagner.github.io/img/Event5.JPG" alt="Event5">
 
 ## Conclusion
