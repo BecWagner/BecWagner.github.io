@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Kscope18 Reflection
-subtitle: The conference that keeps on giving
-tags: [ODTUG][KSCOPE][OracleACE][US-Analytics]
 ---
 
 Kscope is a whirlwind adventure. I have been very luck to be able to attend Kscope 3 years in a row.
