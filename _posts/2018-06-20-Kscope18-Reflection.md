@@ -30,8 +30,8 @@ Here is a recap of my week!
 
 ## Representing US-Analytics
 
-<img src="http://BecWagner.github.io/img/Represent.JPG" alt="Represent" style="width:300px;"><img src="http://BecWagner.github.io/img/Punny.JPG" alt="Punny" style="width:300px;"><img src="http://BecWagner.github.io/img/LiloStitch2.JPG" alt="LiloStitch2" style="width:300px;">
+<img src="http://BecWagner.github.io/img/Punny.JPG" alt="Punny" style="width:300px;"><img src="http://BecWagner.github.io/img/LiloStitch2.JPG" alt="LiloStitch2" style="width:300px;"><img src="http://BecWagner.github.io/img/Represent.JPG" alt="Represent" style="width:300px;">
 
 ## Special Event
 
-<img src="http://BecWagner.github.io/img/Event.JPG" alt="Event" style="width:300px;"><img src="http://BecWagner.github.io/img/Event3.JPG" alt="Event3" style="width:300px;"><img src="http://BecWagner.github.io/img/Event3.JPG" alt="Event4" style="width:300px;"><img src="http://BecWagner.github.io/img/Event3.JPG" alt="Event5" style="width:300px;"><img src="http://BecWagner.github.io/img/Event3.JPG" alt="Event6" style="width:300px;">
+<img src="http://BecWagner.github.io/img/Event.JPG" alt="Event" style="width:300px;"><img src="http://BecWagner.github.io/img/Event3.JPG" alt="Event3" style="width:300px;"><img src="http://BecWagner.github.io/img/Event4.JPG" alt="Event4" style="width:300px;"><img src="http://BecWagner.github.io/img/Event5.JPG" alt="Event5" style="width:300px;"><img src="http://BecWagner.github.io/img/Event6.JPG" alt="Event6" style="width:300px;">
