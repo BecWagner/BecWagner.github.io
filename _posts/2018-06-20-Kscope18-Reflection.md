@@ -10,7 +10,7 @@ Here is a recap of my week!
 
 ## Welcome Reception
 
-<img src="http://BecWagner.github.io/img/LiloStitch2.JPG" alt="LiloStitch2" style="width:300px;"><img src="http://BecWagner.github.io/img/WelcomeReception.JPG" alt="WelcomeReception" style="width:300px;">
+<img src="http://BecWagner.github.io/img/LiloStitch.JPG" alt="LiloStitch" style="width:300px;"><img src="http://BecWagner.github.io/img/WelcomeReception.JPG" alt="WelcomeReception" style="width:300px;">
 
 ## Sessions
 
