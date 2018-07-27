@@ -30,6 +30,6 @@ I started consulting in January 2015. I did a few months of staff aug, and then 
 
 ## Tying it up with a bow
 
-So how do I know all of this? I've learned a lot while consulting. I make myself install software I will be working with. I read others' work and ask for their for help and insights. I think installing software, understanding the underlying components, and then teaching others (blogging, or short youtube videos, or even standing in front of a class), are some of the best ways to teach yourself. Finally, don't be afraid to ask for help.
+So how do I know all of this? I've learned a lot while consulting. I make myself install software I will be working with. I read others' work and ask for their for help and insights. I think installing software, understanding the underlying components, and then teaching others (blogging, or short youtube videos, or even standing in front of a class), are some of the best ways to teach yourself. Finally, don't be afraid to ask for help. And even more important, if the answer is not clear, ask for further clarification.
 
 I hope this helps answer your question in a more honest, if long-winded way. Keep at it, keep digging in and asking questions.
