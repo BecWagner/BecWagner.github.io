@@ -62,7 +62,7 @@ The second keynote was more interesting to me, with a live demo of 3 clicks and 
 
 <img src="http://BecWagner.github.io/img/Keynote2-3.jpg" alt="Keynote2-3" style="width:300px;">
 
-And even my tweet showed up on the keynote scrolling twitter feed which was neat to see.
+And my tweet showed up on the keynote screen in the scrolling twitter feed which was neat to see.
 
 <img src="http://BecWagner.github.io/img/Twitter.jpg" alt="Twitter" style="width:300px;">
 
@@ -70,7 +70,7 @@ And even my tweet showed up on the keynote scrolling twitter feed which was neat
 
 The last things I'm going to cover, but certainly not the least, are the super amazing and cool areas called ***The Hub*** and ***The Exchange***.
 
-The Hub was where Oracle Groundbreakers, Oracle ACEs had a lot of things going on. There was a place to meet the experts, Professional Profile Headshots being done, blockchain managed craft beer testing, 360 degree camera setup for superhero shots, and so many other things, I can't even begin to say how cool it was. I even have my own professional profile picture now.
+The Hub was where Oracle Groundbreakers, Oracle ACEs had a lot of things going on. There was a place to meet the experts, Professional Profile Headshots being done, blockchain-managed craft beer testing, 360 degree camera setup for superhero shots, and so many other things, I can't even begin to say how cool it was. I even have my own professional profile picture now.
 
 <img src="http://BecWagner.github.io/img/ProHeadshot.JPG" alt="Profile" style="width:300px;">
 [_photography by Bring Into Being_](https://thomaskleteckaphotography.com)
