@@ -68,7 +68,7 @@ And even my tweet showed up on the keynote scrolling twitter feed which was neat
 
 ## The HUB and The Exchange
 
-The last things I'm going to cover, but certainly not the least, is the super amazing and cool areas called ***The Hub*** and ***The Exchange***.
+The last things I'm going to cover, but certainly not the least, are the super amazing and cool areas called ***The Hub*** and ***The Exchange***.
 
 The Hub was where Oracle Groundbreakers, Oracle ACEs had a lot of things going on. There was a place to meet the experts, Professional Profile Headshots being done, blockchain managed craft beer testing, 360 degree camera setup for superhero shots, and so many other things, I can't even begin to say how cool it was. I even have my own professional profile picture now.
 
