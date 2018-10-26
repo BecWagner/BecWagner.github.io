@@ -73,6 +73,7 @@ The last things I'm going to cover, but certainly not the least, are the super a
 The Hub was where Oracle Groundbreakers, Oracle ACEs had a lot of things going on. There was a place to meet the experts, Professional Profile Headshots being done, blockchain managed craft beer testing, 360 degree camera setup for superhero shots, and so many other things, I can't even begin to say how cool it was. I even have my own professional profile picture now.
 
 <img src="http://BecWagner.github.io/img/ProHeadshot.JPG" alt="Profile" style="width:300px;">
+[_photography by Bring Into Being_](https://thomaskleteckaphotography.com)
 
 The Exchange was where all of the vendor booths were. And more importantly (to me at least) this was where Oracle Product Managers set up shop with Demo booths of every Oracle product you can imagine. I spent some time here pestering the Analytics folks like [Mike Durran](https://twitter.com/mikedurran).
 
