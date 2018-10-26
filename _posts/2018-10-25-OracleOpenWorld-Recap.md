@@ -6,16 +6,16 @@ subtitle: A First Timer's experience
 
 My first OOW experience was a memorable one. I also managed to be fighting migraines most every mid-day, so I missed out on so many amazing sessions I wanted to be at. While I was hiding away in my room with the shades drawn, I polished my own session slides. I also may have had some interrupted sleep from dreams/nightmares of missing my own session. :) Despite my own sabotage, I had a fantastic time and hope I get to return in the future. Now, I want to share some of my favorite moments.
 
-##Arrival and Oracle ACE Dinner##
+## Arrival and Oracle ACE Dinner
 
-I started my journey at 3 am to fly to San Francisco. After getting checked into my hotel (with a great view) on Sunday afternoon, I had just enough time to get my badge before heading over to Parc55 hotel. There I joined a bus load of people over to Pier 39 for the Oracle ACE dinner. It was rather chilly and windy on the Pier, but I got to see sea lions, ships, and many people I've been twitter stalking for years! Dinner was a great time visiting with many people, and I headed back to the hotel on the early 9pm bus.
+I started my journey at 3 am to fly to San Francisco. After getting checked into my hotel (with a great view) on Sunday afternoon, I had just enough time to get my badge before heading over to Parc55 hotel. There I joined a busload of people over to Pier 39 for the Oracle ACE dinner. It was rather chilly and windy on the Pier, but I got to see sea lions, ships, and many people I've been twitter stalking for years! Dinner was a great time visiting with many people, and I headed back to the hotel on the early 9pm bus.
 
 <img src="http://BecWagner.github.io/img/HotelView.JPG" alt="HotelView" style="width:300px;">
 <img src="http://BecWagner.github.io/img/OOWBadge.JPG" alt="Badge" style="width:300px;">
 <img src="http://BecWagner.github.io/img/SeaLions.JPG" alt="SeaLions" style="width:300px;">
 <img src="http://BecWagner.github.io/img/ShippingShip.JPG" alt="ShippingShip" style="width:300px;">
 
-##Sessions I attended##
+## Sessions I attended
 
 I attended several sessions. I even managed to remember to take a picture of a few of them. :)
 
@@ -31,20 +31,20 @@ And I managed to get into one of [Hermann](https://twitter.com/sdjh2000) and [Ya
 
 <img src="http://BecWagner.github.io/img/HOL.jpg" alt="HOL" style="width:300px;">
 
-##My own session##
+## My own session
 
 I had a great time presenting my session [_Active Directory and Single Sign-On with Oracle Analytics Cloud (OAC)_](https://static.rainfocus.com/oracle/oow18/sess/1521778113165001s0QZ/PF/AD-SSO%20with%20OAC%20PDF%20-%20OOW18_1540401096323001kP6T.pdf). The room was packed, the audience was interactive and asked great questions, and I definitely ran out of time. Thank you to everyone who came to listen to me. I've posted my [slides on slideshare](https://www.slideshare.net/secret/qERdzGtv9SZTpj) and will have another blog post next week on how I setup my lab I used in my videos for the presentation.
 
-<img src="http://BecWagner.github.io/img/MySession.JPG" alt="MySession" style="width:300px;">
+<img src="http://BecWagner.github.io/img/MySession.JPG" alt="MySession" style="width:300px;"> _Pic curtesy of Kurt Witt_
 <img src="http://BecWagner.github.io/img/MySession1.JPG" alt="MySession1" style="width:300px;">
 
-##ODTUG Meetup and Us-Analytics sponsored Concert##
+## ODTUG Meetup and Us-Analytics sponsored Concert
 
 I briefly stopped by the ODTUG meetup and really wished I could have stayed longer. I had great conversations with [Mark Casazza](https://twitter.com/MarkCasazzaIV), [Chris Saxon](https://twitter.com/chrisrsaxon), Not-Jason, and many others in passing. Sadly I had to jet over to my company [US-Analytics](https://www.us-analytics.com/) sponsored event down the street that was rocking!
 
 <img src="http://BecWagner.github.io/img/USAconcert.JPG" alt="Concert" style="width:300px;">
 
-##Keynotes##
+## Keynotes
 
 I did get to sit in the two keynotes that Larry Ellison did. Even though the main entrance line was all the way around the block, I went across the street to The Exchange and there was an under the street entrace as well. Both times this allowed me to get in and get a seat without the insane lines. Secret for next year!
 
@@ -60,7 +60,7 @@ And even my tweet showed up on the keynote scrolling twitter feed which was neat
 
 <img src="http://BecWagner.github.io/img/Twitter.jpg" alt="Twitter" style="width:300px;">
 
-##The HUB and The Exchange##
+## The HUB and The Exchange
 
 The last things I'm going to cover, but certainly not the least, is the super amazing and cool areas called ***The Hub and The Exchange***.
 
@@ -72,6 +72,6 @@ The Exchange was where all of the vendor booths were. And more importantly (to m
 
 <img src="http://BecWagner.github.io/img/MeetingPeople.JPG" alt="MikeandMe" style="width:300px;">
 
-##The End##
+## The End
 
 I'd like to say thanks to [ODTUG](https://www.odtug.com/) and [US-Analytics](https://www.us-analytics.com/) for the opportunity to go to Oracle Open World this year. It was amazing and I truly feel lucky to have gotten to go.
