@@ -15,6 +15,12 @@ I started my journey at 3 am to fly to San Francisco. After getting checked into
 <img src="http://BecWagner.github.io/img/SeaLions.JPG" alt="SeaLions" style="width:300px;">
 <img src="http://BecWagner.github.io/img/ShippingShip.JPG" alt="ShippingShip" style="width:300px;">
 
+## Oracle ACE WIT Breakfast
+
+I was invited to a great breakfast at the top of the Marriott Marquis in [The View](http://www.sfviewlounge.com/). It was the best sunrise I've seen in ... a long time. Plus the presentation by [Iridescent](http://iridescentlearning.org/) was inspiring and I was absolutely not crying. It was dusty. The networking was great and I hope you please look into supporting Iridescent if that is your sort of thing.
+
+<img src="http://BecWagner.github.io/img/WITview.JPG" alt="The View" style="width:300px;">
+
 ## Sessions I attended
 
 I attended several sessions. I even managed to remember to take a picture of a few of them. :)
@@ -62,7 +68,7 @@ And even my tweet showed up on the keynote scrolling twitter feed which was neat
 
 ## The HUB and The Exchange
 
-The last things I'm going to cover, but certainly not the least, is the super amazing and cool areas called ***The Hub and The Exchange***.
+The last things I'm going to cover, but certainly not the least, is the super amazing and cool areas called ***The Hub*** and ***The Exchange***.
 
 The Hub was where Oracle Groundbreakers, Oracle ACEs had a lot of things going on. There was a place to meet the experts, Professional Profile Headshots being done, blockchain managed craft beer testing, 360 degree camera setup for superhero shots, and so many other things, I can't even begin to say how cool it was. I even have my own professional profile picture now.
 
