@@ -46,7 +46,7 @@ I had a great time presenting my session [_Active Directory and Single Sign-On w
 
 ## ODTUG Meetup and Us-Analytics sponsored Concert
 
-I briefly stopped by the ODTUG meetup and really wished I could have stayed longer. I had great conversations with [Mark Casazza](https://twitter.com/MarkCasazzaIV), [Chris Saxon](https://twitter.com/chrisrsaxon), Not-Jason, and many others in passing. Sadly I had to jet over to my company [US-Analytics](https://www.us-analytics.com/) sponsored event down the street that was rocking!
+I briefly stopped by the ODTUG meetup and really wished I could have stayed longer. I had great conversations with [Mark Casazza](https://twitter.com/MarkCasazzaIV), [Chris Saxon](https://twitter.com/chrisrsaxon), [Not-Jason (AKA Dan Gagnon!)](https://twitter.com/HyperionDan), and many others in passing. Sadly I had to jet over to my company [US-Analytics](https://www.us-analytics.com/) sponsored event down the street that was rocking!
 
 <img src="http://BecWagner.github.io/img/USAconcert.JPG" alt="Concert" style="width:300px;">
 
