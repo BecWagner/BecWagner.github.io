@@ -50,7 +50,7 @@ Earn 50,000 bonus points with [Chase Sapphire Preferred](https://www.referyourch
 
 ## Travel gear
 
-If you are traveling for the week or less, I highly recommend getting a carry-on suitcase and a very comfortable laptop bag. The carry-on is because checked baggage takes extra time before and after flight. Also it can slightly increase the change of lost baggage and stress. I'm still using the same [carry-on](https://amzn.to/2BVvqQX) that I bought in January 2015.
+If you are traveling for the week or less, I highly recommend getting a carry-on suitcase and a very comfortable laptop bag. The carry-on is because checked baggage takes extra time before and after flight. Also it can slightly increase the chance of lost baggage and stress. I'm still using the same [carry-on](https://amzn.to/2BVvqQX) that I bought in January 2015.
 
 The hunt for the right laptop bag has been an ongoing trial for me. It is a very personal thing and what works for one person (big, has built in chargers, all the pockets) doesn't work for another (lightweight, minimal, sits higher on the back). I've gone through 5 laptop backpacks and I'm still not 100% happy, but have this [Belkin slim one](https://amzn.to/2s2C2Zj).
 
@@ -66,7 +66,7 @@ Don't leave your carry-on or laptop bag even for a moment while in the airport. 
 
 ## Car Rentals vs Taxi vs UBER/Lyft
 
-I have to say the one area I've been really inconsistent is Cars. I rent from all of the car rentals. And recently I've gotten to the point that I don't like to even rent a car and just going with Lyft instead. I decided a year ago to vote with my dollars and use Lyft instead of UBER because of bad practices I was hearing about UBER. I've grabbed the occassional taxi, but in general find the ride services cheaper. So if you a quick $10 bonus for Lyft, there is even a [referral link for that](https://www.lyft.com/iei/BECKY81555).
+I have to say the one area I've been really inconsistent is Cars. I rent from all of the car rentals. And recently I've gotten to the point that I don't like to even rent a car and just end up going with Lyft instead. I decided a year ago to vote with my dollars and use Lyft instead of UBER because of bad practices I was hearing. I've grabbed the occassional taxi, but in general find the ride services cheaper. Check google maps and you can often see current rates for UBER/Lyft. So if you want a quick $10 bonus for Lyft, there is even a [referral link for that](https://www.lyft.com/iei/BECKY81555).
 
 ## Sit back and enjoy!
 
