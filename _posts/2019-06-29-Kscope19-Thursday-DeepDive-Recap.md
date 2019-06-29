@@ -26,11 +26,9 @@ Tim is a natural teacher. In 10 minutes he was able to show the best and quickes
 
 I first showed the data set I just used from Tim's talk to the croud. Thank you Tim for the great instructions.
 
-<img src="https://github.com/BecWagner/BecWagner.github.io/blob/master/img/kscope19DeepDive.jpg" alt="Visualization1">
+<img src="https://BecWagner.github.io/img/kscope19DeepDive.jpg" alt="Visualization1">
 
-https://twitter.com/odtug/status/1144303485107617792
-
-<img src="https://github.com/BecWagner/BecWagner.github.io/blob/master/img/kscope19DeepDive2.jpg" alt="Visualization2">
+<img src="https://BecWagner.github.io/img/kscope19DeepDive2.jpg" alt="Visualization2">
 
 Then I cover what my colleague and I have been working on over the last few weeks. We have pulled in files and have a full audit by person or by subject area for all security permissions. The details can be found on the slides [here](https://www.slideshare.net/RebeccaWagner1/kscope19-deep-dive-visualization-showcase).
 
@@ -38,6 +36,12 @@ Then I cover what my colleague and I have been working on over the last few week
 
 Neviana has been doing some amazing things this year with #data4good, and [FABE (For All a Beautiful Earth)](https://twitter.com/fabedlh). She shows how her visualizations make the most impact by being similar to the devastating image used beside it. These datasets are now available on the public Oracle Analytics Cloud [sandbox](https://www.oracle.com/webfolder/technetwork/OACsandbox/oacsandbox.html) as well!
 
+Neviana also announced a new project we are gathering a committee for:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">With the <a href="https://twitter.com/OracleAnalytics?ref_src=twsrc%5Etfw">@OracleAnalytics</a> team members and the <a href="https://twitter.com/hashtag/ODTUG?src=hash&amp;ref_src=twsrc%5Etfw">#ODTUG</a> Data Visualization Showcase panelists! <br><br>The <a href="https://twitter.com/hashtag/Data4Good?src=hash&amp;ref_src=twsrc%5Etfw">#Data4Good</a> initiative has officially kickstarted! Contact <a href="https://twitter.com/Bec_Wagner?ref_src=twsrc%5Etfw">@Bec_Wagner</a> or myself if you’d like to <a href="https://twitter.com/hashtag/GetInvolved?src=hash&amp;ref_src=twsrc%5Etfw">#GetInvolved</a> <a href="https://t.co/QBcnbOz4Lh">pic.twitter.com/QBcnbOz4Lh</a></p>&mdash; Neviana👩🏻‍💻🗯 (@NevianaZhgaba) <a href="https://twitter.com/NevianaZhgaba/status/1144325049773481984?ref_src=twsrc%5Etfw">June 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 ## Gary recaps and shows us elbows
 
 Last but not least, Gary did a great recap and then showed us to build our own custom visualization [plugins](https://www.oracle.com/solutions/business-analytics/data-visualization/extensions.html), as well as highlighting the library where Oracle and the public can share their own plugins as well. Gary's built a few plugins, the [Butterfly Chart](https://www.oracle.com/solutions/business-analytics/data-visualization/extensions.html), the [Vertical Waterfall](https://www.oracle.com/solutions/business-analytics/data-visualization/extensions.html), and my favorite ["Elbow" Dendrogram](https://drive.google.com/open?id=1JWhOHUMd1jlsiVIvU_yvcJMMRQowgYg5)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thursday Deep Dives at <a href="https://twitter.com/hashtag/Kscope19?src=hash&amp;ref_src=twsrc%5Etfw">#Kscope19</a>! <a href="https://t.co/Unnozmr8zn">pic.twitter.com/Unnozmr8zn</a></p>&mdash; ODTUG (@odtug) <a href="https://twitter.com/odtug/status/1144303485107617792?ref_src=twsrc%5Etfw">June 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
