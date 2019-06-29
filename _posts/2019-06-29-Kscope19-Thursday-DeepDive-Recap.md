@@ -22,7 +22,7 @@ Teal showed what can be done with a good plan, and great visuals. The Berkeley p
 
 Tim is a natural teacher. In 10 minutes he was able to show the best and quickest way to take normal data and make the most meaningful visual representations from it. I actually had a data set from our vendor booth that I used and followed along Tim's steps in real time.
 
-## I take it technical
+## Becky goes auditing
 
 I first showed the data set I just used from Tim's talk to the croud. Thank you Tim for the great instructions.
 
@@ -44,6 +44,6 @@ Neviana also announced a new project we are gathering a committee for:
 
 ## Gary recaps and shows us elbows
 
-Last but not least, Gary did a great recap and then showed us to build our own custom visualization [plugins](https://www.oracle.com/solutions/business-analytics/data-visualization/extensions.html), as well as highlighting the library where Oracle and the public can share their own plugins as well. Gary's built a few plugins, the [Butterfly Chart](https://www.oracle.com/solutions/business-analytics/data-visualization/extensions.html), the [Vertical Waterfall](https://www.oracle.com/solutions/business-analytics/data-visualization/extensions.html), and my favorite ["Elbow" Dendrogram](https://drive.google.com/open?id=1JWhOHUMd1jlsiVIvU_yvcJMMRQowgYg5)
+Last but not least, Gary did a great recap and then showed us how to build our own custom visualization [plugins](https://www.oracle.com/solutions/business-analytics/data-visualization/extensions.html), as well as highlighting the library where Oracle and the public can share their own plugins as well. Gary's built a few plugins, the [Butterfly Chart](https://www.oracle.com/solutions/business-analytics/data-visualization/extensions.html), the [Vertical Waterfall](https://www.oracle.com/solutions/business-analytics/data-visualization/extensions.html), and my favorite ["Elbow" Dendrogram](https://drive.google.com/open?id=1JWhOHUMd1jlsiVIvU_yvcJMMRQowgYg5)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thursday Deep Dives at <a href="https://twitter.com/hashtag/Kscope19?src=hash&amp;ref_src=twsrc%5Etfw">#Kscope19</a>! <a href="https://t.co/Unnozmr8zn">pic.twitter.com/Unnozmr8zn</a></p>&mdash; ODTUG (@odtug) <a href="https://twitter.com/odtug/status/1144303485107617792?ref_src=twsrc%5Etfw">June 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
