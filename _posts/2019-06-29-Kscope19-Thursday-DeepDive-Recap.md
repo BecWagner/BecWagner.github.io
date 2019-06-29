@@ -32,6 +32,8 @@ I first showed the data set I just used from Tim's talk to the croud. Thank you 
 
 Then I cover what my colleague and I have been working on over the last few weeks. We have pulled in files and have a full audit by person or by subject area for all security permissions. The details can be found on the slides [here](https://www.slideshare.net/RebeccaWagner1/kscope19-deep-dive-visualization-showcase).
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FEarDklWJHTQHT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RebeccaWagner1/kscope19-deep-dive-visualization-showcase" title="Kscope19 Deep Dive: Visualization Showcase" target="_blank">Kscope19 Deep Dive: Visualization Showcase</a> </strong> from <strong><a href="https://www.slideshare.net/RebeccaWagner1" target="_blank">Becky Wagner</a></strong> </div>
+
 ## Neviana does #data4good
 
 Neviana has been doing some amazing things this year with #data4good, and [FABE (For All a Beautiful Earth)](https://twitter.com/fabedlh). She shows how her visualizations make the most impact by being similar to the devastating image used beside it. These datasets are now available on the public Oracle Analytics Cloud [sandbox](https://www.oracle.com/webfolder/technetwork/OACsandbox/oacsandbox.html) as well!
