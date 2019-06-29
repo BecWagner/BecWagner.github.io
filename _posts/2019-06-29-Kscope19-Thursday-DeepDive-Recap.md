@@ -24,9 +24,9 @@ Tim is a natural teacher. In 10 minutes he was able to show the best and quickes
 
 I first showed the data set I just used from Tim's talk to the croud. Thank you Tim for the great instructions.
 
-<img src="https://github.com/BecWagner/BecWagner.github.io/blob/master/img/kscope19DeepDive.png" alt="Visualization1">
+<img src="https://github.com/BecWagner/BecWagner.github.io/blob/master/img/kscope19DeepDive.jpg" alt="Visualization1">
 
-<img src="https://github.com/BecWagner/BecWagner.github.io/blob/master/img/kscope19DeepDive2.png" alt="Visualization2">
+<img src="https://github.com/BecWagner/BecWagner.github.io/blob/master/img/kscope19DeepDive2.jpg" alt="Visualization2">
 
 Then I cover what my colleague and I have been working on over the last few weeks. We have pulled in files and have a full audit by person or by subject area for all security permissions. The details can be found on the slides [here](https://www.slideshare.net/RebeccaWagner1/kscope19-deep-dive-visualization-showcase).
 
