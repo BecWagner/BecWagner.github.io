@@ -25,7 +25,6 @@ Tim is a natural teacher. In 10 minutes he was able to show the best and quickes
 I first showed the data set I just used from Tim's talk to the croud. Thank you Tim for the great instructions.
 
 <img src="https://BecWagner.github.io/img/kscope19DeepDive.jpg" alt="Visualization1">
---<img src="http://BecWagner.github.io/img/WITview.JPG" alt="The View" style="width:300px;">
 
 <img src="https://BecWagner.github.io/img/kscope19DeepDive2.jpg" alt="Visualization2">
 
