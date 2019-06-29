@@ -8,6 +8,8 @@ subtitle: Visualization Showcase
 
 I had a great time on Thursday during the morning Deep Dive session. Our Analytics track was doing a Visualization Showcase. [Mike Jelen](https://www.linkedin.com/in/mikejelen/) was our MC. We had on the panel [Andy Tauro](https://www.linkedin.com/in/andrewptauro/), [Teal Sexton](https://www.linkedin.com/in/teal-sexton-3a7a2639/), [Tim Vlamis](https://www.linkedin.com/in/timvlamis/), [Myself](https://www.linkedin.com/in/becky-wagner-bb356924/), [Neviana Zhgaba](https://www.linkedin.com/in/nevianazhgaba/), and [Gary Adashek](https://www.linkedin.com/in/garymichaeladashek/).
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="cs" dir="ltr">DataViz showcase at <a href="https://twitter.com/hashtag/Kscope19?src=hash&amp;ref_src=twsrc%5Etfw">#Kscope19</a> <a href="https://twitter.com/odtug?ref_src=twsrc%5Etfw">@odtug</a> <a href="https://twitter.com/GADASHEK?ref_src=twsrc%5Etfw">@GADASHEK</a> <a href="https://twitter.com/NevianaZhgaba?ref_src=twsrc%5Etfw">@NevianaZhgaba</a> <a href="https://twitter.com/TealSexton?ref_src=twsrc%5Etfw">@TealSexton</a> <a href="https://twitter.com/Bec_Wagner?ref_src=twsrc%5Etfw">@Bec_Wagner</a> <a href="https://twitter.com/TimVlamis?ref_src=twsrc%5Etfw">@TimVlamis</a> <a href="https://t.co/XRSxLvaDrO">pic.twitter.com/XRSxLvaDrO</a></p>&mdash; Kevin McGinley (@kevin_mcginley) <a href="https://twitter.com/kevin_mcginley/status/1144304125984690176?ref_src=twsrc%5Etfw">June 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Andy digs into flavor
 
 I learned a lot during Andy's session about DV and Explain, as well as flavor profiles. He was a great sport about going adhoc to demo the Explain feature at [Mike Durran's](https://www.linkedin.com/in/mikedurran/) direction and guidance.
@@ -24,9 +26,11 @@ Tim is a natural teacher. In 10 minutes he was able to show the best and quickes
 
 I first showed the data set I just used from Tim's talk to the croud. Thank you Tim for the great instructions.
 
-<img src="https://BecWagner.github.io/img/kscope19DeepDive.jpg" alt="Visualization1">
+<img src="https://github.com/BecWagner/BecWagner.github.io/blob/master/img/kscope19DeepDive.jpg" alt="Visualization1">
 
-<img src="https://BecWagner.github.io/img/kscope19DeepDive2.jpg" alt="Visualization2">
+https://twitter.com/odtug/status/1144303485107617792
+
+<img src="https://github.com/BecWagner/BecWagner.github.io/blob/master/img/kscope19DeepDive2.jpg" alt="Visualization2">
 
 Then I cover what my colleague and I have been working on over the last few weeks. We have pulled in files and have a full audit by person or by subject area for all security permissions. The details can be found on the slides [here](https://www.slideshare.net/RebeccaWagner1/kscope19-deep-dive-visualization-showcase).
 
