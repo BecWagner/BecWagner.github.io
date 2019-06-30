@@ -50,7 +50,7 @@ And since I'm meandering, I'll leave you here with a poem from my daughter that 
 
 ## Boundless by Victoria Wagner
 
-<p align="center">
+
 Life is curious.  
 
 It is finite, logical, knowable.  
@@ -138,5 +138,3 @@ If we all open our eyes
 To the pain we can prevent,  
 
 We can be boundless.  
-
-</p>
