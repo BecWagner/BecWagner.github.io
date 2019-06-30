@@ -52,9 +52,13 @@ And since I'm meandering, I'll leave you here with a poem from my daughter that 
 
 <p align="center">
 Life is curious.  
+
 It is finite, logical, knowable.  
+
 Yet somehow it has formed such vast diversity  
+
 And through that diversity makes itself boundless.  
+
 One life, one person alond can do nothing.  
 But they are never alone.  
 When they act, they touch others' lives in way  
