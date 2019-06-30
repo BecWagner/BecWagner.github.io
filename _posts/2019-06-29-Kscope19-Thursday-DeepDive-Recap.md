@@ -24,7 +24,7 @@ Tim is a natural teacher. In 10 minutes he was able to show the best and quickes
 
 ## Alliterating Becky always audits
 
-I first showed the data set I just used from Tim's talk to the croud. Thank you Tim for the great instructions.
+I first showed the data set I just used from Tim's talk to the crowd. Thank you Tim for the great instructions.
 
 <img src="https://BecWagner.github.io/img/kscope19DeepDive.jpg" alt="Visualization1">
 
