@@ -40,7 +40,7 @@ Since then, I've become an Oracle ACE Associate, and now recently promoted to an
 
 I've had an amazing several years and it has gone so fast. I've been the ODTUG Analytics Community Lead for a couple of years now, helping the volunteer community organize meetups, newsletters, webinars, and of course the Kscope Monday Community Night Trivia Party each year. I've also been a part of the abstract selection committee for the last 3 years and this year helped as a Track Content Lead.
 
-Kscope19 has been amazing and I got recognition for these activities. I've been awarded 'ODTUG Volunteer of the Year' and promoted to Oracle ACE. None of this would have happened without some nudging and encouragement from so many people like Michael Rainey and Christain Berg along the way.
+Kscope19 has been amazing and I got recognition for these activities. I've been awarded 'ODTUG Volunteer of the Year' and promoted to Oracle ACE. None of this would have happened without some nudging and encouragement from so many people like my husband, Michael Rainey, and Christain Berg along the way.
 
 ## Well that was a bit meandering
 
@@ -59,11 +59,11 @@ Yet somehow it has formed such vast diversity
 
 And through that diversity makes itself boundless.  
 
-One life, one person alond can do nothing.  
+One life, one person alone can do nothing.  
 
 But they are never alone.  
 
-When they act, they touch others' lives in way  
+When they act, they touch others' lives in ways  
 
 More complex and more moving than can ever be anticipated.  
 
