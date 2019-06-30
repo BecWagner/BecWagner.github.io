@@ -12,7 +12,7 @@ One of the great parts of the ODTUG Leadership program is that you get to hear f
 
 ## Kscope19 Session: Turbocharging your Data Engineering Career
 
-Our slides are can be found in the [ODTUG site](https://kscope19.odtug.com/e/in/eid=32&s=2568&print=1&req=info) and also here on my [slideshare](https://www.slideshare.net/RebeccaWagner1/kscope19-turbocharging-your-career).
+I am very glad I got to do a session with Heli. It went very well in my opinion. Our slides are can be found in the [ODTUG site](https://kscope19.odtug.com/e/in/eid=32&s=2568&print=1&req=info) and also here on my [slideshare](https://www.slideshare.net/RebeccaWagner1/kscope19-turbocharging-your-career).
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/j0vyS7QR9ulWQD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RebeccaWagner1/kscope19-turbocharging-your-career" title="Kscope19 Turbocharging Your Career" target="_blank">Kscope19 Turbocharging Your Career</a> </strong> from <strong><a href="https://www.slideshare.net/RebeccaWagner1" target="_blank">Becky Wagner</a></strong> </div>
 
