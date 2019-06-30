@@ -40,7 +40,7 @@ Since then, I've become an Oracle ACE Associate, and now recently promoted to an
 
 I've had an amazing several years and it has gone so fast. I've been the ODTUG Analytics Community Lead for a couple of years now, helping the volunteer community organize meetups, newsletters, webinars, and of course the Kscope Monday Community Night Trivia Party each year. I've also been a part of the abstract selection committee for the last 3 years and this year helped as a Track Content Lead.
 
-Kscope19 has been amazing and I got recognition for these activities. I've been awarded 'ODTUG Volunteer of the Year' and promoted to Oracle ACE. None of this wouldn't have happened without some nudging and encouragement from so many people along the way like Michael Rainey and Christain Berg along the way.
+Kscope19 has been amazing and I got recognition for these activities. I've been awarded 'ODTUG Volunteer of the Year' and promoted to Oracle ACE. None of this wouldn't have happened without some nudging and encouragement from so many people like Michael Rainey and Christain Berg along the way.
 
 ## Well that was a bit meandering
 
@@ -51,48 +51,48 @@ And since I'm meandering, I'll leave you here with a poem from my daughter that 
 ## Boundless by Victoria Wagner
 
 <p align="center">
-Life is curious.
-It is finite, logical, knowable.
-Yet somehow it has formed such vast diversity
-And through that diversity makes itself boundless.
-One life, one person alond can do nothing.
-But they are never alone.
-When they act, they touch others' lives in way
-More complex and more moving than can ever be anticipated.
-So it happens that a single life with a dream, an idea,
-Can create a wildfire to transform the nature of life entirely.
-
-One person's life is small.
-We have a limited time to influence the world around us.
-We must make choices that shape our lives and others' lives,
-And lay the groundwork for the future, every day.
-Many choices are small, by themselves of little consequence.
-But our lives are a result of the tiny choices we make.
-So we live, and so we will die.
-What we leave behind is but memory
-And the imprint of our touch on another person's life.
-Our touch has the potential to change the way
-They choose to live their live,
-And so the way they touch other lives, and so on,
-Forever, like ripples in a pond.
-
-With such a small time given to us,
-We get caught up in the short-term, and the present.
-We don't often think about the ripples we create,
-Or how they might be waves to others,
-Threatening to consume them,
-Or offering to carry them to the shore.
-The ripples, though faded, always remain
-Even as the creator fades away entirely.
-We don't think about this.
-And so when we see other lives around us,
-Growing, smiling, weeping, living,
-We often do nothing, or make the wrong choice.
-So our ripples are stained by the wounds we make,
-Without realizing the pain we cause.
-But when we touch a heart with kindness,
-The water is purified for all.
-If we all open our eyes
-To the pain we can prevent,
-We can be boundless.
+Life is curious.  
+It is finite, logical, knowable.  
+Yet somehow it has formed such vast diversity  
+And through that diversity makes itself boundless.  
+One life, one person alond can do nothing.  
+But they are never alone.  
+When they act, they touch others' lives in way  
+More complex and more moving than can ever be anticipated.  
+So it happens that a single life with a dream, an idea,  
+Can create a wildfire to transform the nature of life entirely.  
+  
+One person's life is small.  
+We have a limited time to influence the world around us.  
+We must make choices that shape our lives and others' lives,  
+And lay the groundwork for the future, every day.  
+Many choices are small, by themselves of little consequence.  
+But our lives are a result of the tiny choices we make.  
+So we live, and so we will die.  
+What we leave behind is but memory  
+And the imprint of our touch on another person's life.  
+Our touch has the potential to change the way  
+They choose to live their live,  
+And so the way they touch other lives, and so on,  
+Forever, like ripples in a pond.  
+  
+With such a small time given to us,  
+We get caught up in the short-term, and the present.  
+We don't often think about the ripples we create,  
+Or how they might be waves to others,  
+Threatening to consume them,  
+Or offering to carry them to the shore.  
+The ripples, though faded, always remain  
+Even as the creator fades away entirely.  
+We don't think about this.  
+And so when we see other lives around us,  
+Growing, smiling, weeping, living,  
+We often do nothing, or make the wrong choice.  
+So our ripples are stained by the wounds we make,  
+Without realizing the pain we cause.  
+But when we touch a heart with kindness,  
+The water is purified for all.  
+If we all open our eyes  
+To the pain we can prevent,  
+We can be boundless.  
 </p>
