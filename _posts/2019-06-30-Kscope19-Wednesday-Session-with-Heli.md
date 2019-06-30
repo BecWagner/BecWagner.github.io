@@ -71,7 +71,7 @@ So it happens that a single life with a dream, an idea,
 
 Can create a wildfire to transform the nature of life entirely.  
 
-  
+  .
 
 One person's life is small.  
 
@@ -99,7 +99,7 @@ And so the way they touch other lives, and so on,
 
 Forever, like ripples in a pond.  
 
-  
+  .
 
 With such a small time given to us,  
 
