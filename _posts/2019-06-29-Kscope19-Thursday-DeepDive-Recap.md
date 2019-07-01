@@ -30,7 +30,7 @@ I first showed the data set I just used from Tim's talk to the crowd. Thank you 
 
 <img src="https://BecWagner.github.io/img/kscope19DeepDive2.jpg" alt="Visualization2">
 
-Then I cover what my colleague and I have been working on over the last few weeks. We have pulled in files and have a full audit by person or by subject area for all security permissions. The details can be found on the slides [here](https://www.slideshare.net/RebeccaWagner1/kscope19-deep-dive-visualization-showcase).
+Then I cover what my colleague [Corey Nason](https://www.linkedin.com/in/corey-nason-2454b75/) and I have been working on over the last few weeks. We have pulled in files and have a full audit by person or by subject area for all security permissions. The details can be found on the slides [here](https://www.slideshare.net/RebeccaWagner1/kscope19-deep-dive-visualization-showcase).
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/FEarDklWJHTQHT" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RebeccaWagner1/kscope19-deep-dive-visualization-showcase" title="Kscope19 Deep Dive: Visualization Showcase" target="_blank">Kscope19 Deep Dive: Visualization Showcase</a> </strong> from <strong><a href="https://www.slideshare.net/RebeccaWagner1" target="_blank">Becky Wagner</a></strong> </div>
 
