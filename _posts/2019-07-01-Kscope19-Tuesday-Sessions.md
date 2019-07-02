@@ -12,7 +12,7 @@ Tuesday at 8:50am I had my session on ***Active Directory and Single Sign-on for
 
 ## Oracle Analytics Summit
 
-Next was a livestream of the Oracle Analytics Summit followed by a Q & A with [Matt Milella](https://twitter.com/mmilella), [Philippe Lions](https://twitter.com/philippe_lions) and [Mike Durran](https://twitter.com/mikedurran). You can learn more from this [video](https://t.co/LaugNwTdkx)
+Next I listened to a livestream of the Oracle Analytics Summit followed by a Q & A with [Matt Milella](https://twitter.com/mmilella), [Philippe Lions](https://twitter.com/philippe_lions) and [Mike Durran](https://twitter.com/mikedurran). You can learn more from this [video](https://t.co/LaugNwTdkx)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eY0IPNqzsy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -28,6 +28,6 @@ Panels are always such a great time to be a part of and I was happy to be asked 
 
 ## Oracle ACE dinner
 
-To round out the busiest day of my week, there was the Oracle ACE program dinner.
+To round out the busiest day of my week, there was the Oracle ACE program dinner. Thank you for the fun conversations, learning about JET, and of course the amazing food!
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Feeling so grateful for such a vibrant ACE community at <a href="https://twitter.com/hashtag/Kscope19?src=hash&amp;ref_src=twsrc%5Etfw">#Kscope19</a> <a href="https://t.co/Bepcj2NkrU">pic.twitter.com/Bepcj2NkrU</a></p>&mdash; Oracle ACE Program (@oracleace) <a href="https://twitter.com/oracleace/status/1143921823270068225?ref_src=twsrc%5Etfw">June 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
