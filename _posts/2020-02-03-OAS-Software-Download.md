@@ -43,5 +43,5 @@ Okay my friends, that is the 1st step in your journey for installing OAS 5.5. I 
 Lastly, there are already docker images with OAS already installed available if you want to skip all of this. You can find those at Gianni Ceresa’s github [here](https://github.com/gianniceresa/docker-images/tree/master/OracleAnalyticsServer)
 
 **Other places to get the correct weblogic 12.2.1.4 fusion middleware software:
- https://www.oracle.com/middleware/technologies/fusionmiddleware-downloads.html
- https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=30188255
+[here](https://www.oracle.com/middleware/technologies/fusionmiddleware-downloads.html)
+[and here](https://updates.oracle.com/Orion/PatchDetails/process_form?patch_num=30188255)
