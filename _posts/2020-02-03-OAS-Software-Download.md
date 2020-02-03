@@ -3,9 +3,6 @@ layout: post
 title: OAS 5.5 software download
 subtitle: a lesson learned
 ---
-
-OAS 5.5 software download
-
 OAS 5.5 released Jan 31st!
 
 ## Some notes
