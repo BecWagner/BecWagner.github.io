@@ -20,7 +20,7 @@ If you were to hit continue and go ahead, you are going to see that the server c
 
 <img src="https://BecWagner.github.io/img/oas2.png" alt="OAS2" style="width:300px;">
 
-So instead, go back to the search and look for Oracle Fusion Middleware 12c Infrastructure and add the top line to the cart.**
+So instead, go back to the search and look for Oracle Fusion Middleware 12c Infrastructure and add the top line to the cart.
  
 <img src="https://BecWagner.github.io/img/oas3.png" alt="OAS3" style="width:300px;">
 
@@ -36,7 +36,7 @@ Okay, now your screen will come to the actual links to download the software. Le
 
 <img src="https://BecWagner.github.io/img/oas6.png" alt="OAS6" style="width:300px;">
 
-####Conclusion
+##Conclusion
  
 Okay my friends, that is the 1st step in your journey for installing OAS 5.5. I do expect the Weblogic pieces for Oracle Analytics Server to be fixed in edelivery at some point in the future making this blog likely obsolete. There are SRs and bugs open to resolve this issue already.
 
