@@ -4,8 +4,6 @@ title: OAS 5.5 software download
 subtitle: a lesson learned
 ---
 
-OAS 5.5 software download
-
 OAS 5.5 released Jan 31st!
 
 #### Some notes
@@ -16,27 +14,27 @@ Go to [Oracle Edelivery](https://edelivery.oracle.com/) and sign in.
 
 Search for Oracle Analytics Server and pick the top option and click on + Add to Cart
 
-<img src="http://BecWagner.github.io/img/OAS1.png" alt="OAS1" style="width:300px;">
+<img src="https://BecWagner.github.io/img/OAS1.png" alt="OAS1" style="width:300px;">
 
 If you were to hit continue and go ahead, you are going to see that the server comes with Weblogic 12.2.1.4 software. However, this is the wrong software for what we need.
 
-<img src="http://BecWagner.github.io/img/OAS2.png" alt="OAS2" style="width:300px;">
+<img src="https://BecWagner.github.io/img/OAS2.png" alt="OAS2" style="width:300px;">
 
 So instead, go back to the search and look for Oracle Fusion Middleware 12c Infrastructure and add the top line to the cart.**
  
-<img src="http://BecWagner.github.io/img/OAS3.png" alt="OAS3" style="width:300px;">
+<img src="https://BecWagner.github.io/img/OAS3.png" alt="OAS3" style="width:300px;">
 
 Okay, so now when you click checkout, you should get a screen that looks like the following. Uncheck the Weblogic under Oracle Analytics Server and select Linux for the Fusion Middleware. 
 
-<img src="http://BecWagner.github.io/img/OAS4.png" alt="OAS4" style="width:300px;">
+<img src="https://BecWagner.github.io/img/OAS4.png" alt="OAS4" style="width:300px;">
 
 This click Continue and read the license agreement and check the box that you accept the terms. (You actually read that, right?)
  
-<img src="http://BecWagner.github.io/img/OAS5.png" alt="OAS5" style="width:300px;">
+<img src="https://BecWagner.github.io/img/OAS5.png" alt="OAS5" style="width:300px;">
 
 Okay, now your screen will come to the actual links to download the software. Let me save you a little bit more space. Uncheck the VM Virtual Appliance. You won’t need that either.
 
-<img src="http://BecWagner.github.io/img/OAS6.png" alt="OAS6" style="width:300px;">
+<img src="https://BecWagner.github.io/img/OAS6.png" alt="OAS6" style="width:300px;">
 
 ####Conclusion
  
