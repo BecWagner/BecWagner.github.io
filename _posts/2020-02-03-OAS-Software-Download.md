@@ -5,6 +5,8 @@ subtitle: a lesson learned
 ---
 OAS 5.5 released Jan 31st!
 
+#### UPDATE - As of 2/4/2020 this has been fixed. Edelivery now has the correct software
+
 ## Some notes
 
 For a very brief post - let me help you know exactly what software you will need to download for the install. (A quick shout out to the collaborative effort on a Saturday from several Oracle Aces over in the Telegram obihackers channel.)
@@ -35,7 +37,7 @@ Okay, now your screen will come to the actual links to download the software. Le
 
 <img src="https://BecWagner.github.io/img/oas6.png" alt="OAS6">
 
-##Conclusion
+## Conclusion
  
 Okay my friends, that is the 1st step in your journey for installing OAS 5.5. I do expect the Weblogic pieces for Oracle Analytics Server to be fixed in edelivery at some point in the future making this blog likely obsolete. There are SRs and bugs open to resolve this issue already.
 
