@@ -12,15 +12,15 @@ After the 2020 coronavirus outbreak, also known as the Covid-19 pandemic, the CD
 
 My oldest child started working his first job very recently at the local grocery store. They implement many measures for cleaning and safety for their employees. One included making cloth masks available for employees. So of course when my son came home with one to wash and reuse, I immediately wanted to see if I could make some of those myself.
 
-###Solution One
+### Solution One
 
-####Materials needed: 
+#### Materials needed: 
 1. couple of old shirts
 2. manilla folder
 3. black permanent marker and/or chalk
 4. scissors
 
-####Steps
+#### Steps
 1. Cut the manilla folder in the correct shape to use as a guide for the shape needed on the shirts.
 
 <img src="https://BecWagner.github.io/img/mask1.png" alt="mask1">
@@ -42,7 +42,7 @@ My oldest child started working his first job very recently at the local grocery
 
 <img src="https://BecWagner.github.io/img/mask7.png" alt="mask7">
 
-####Results
+#### Results
 
 This was not quite as good as the store provided ones, but not terrible. The bottom wasn't as snug.
 
@@ -50,13 +50,13 @@ This was not quite as good as the store provided ones, but not terrible. The bot
 <img src="https://BecWagner.github.io/img/mask9.png" alt="mask9">
 <img src="https://BecWagner.github.io/img/mask10.png" alt="mask10">
 
-###Solution Two
+### Solution Two
 
-####Materials needed: 
+#### Materials needed: 
 1. couple of old shirts
 2. scissors
 
-####Steps
+#### Steps
 1. Following a [youtube video](https://www.youtube.com/watch?v=VqHHViHKfrg) I found, start by cutting the shirts along seams and into 2 squares of 16 inches by 14 inches.
 
 2. Cut along the seams and save the strips.
@@ -69,19 +69,19 @@ This was not quite as good as the store provided ones, but not terrible. The bot
 
 7. Flip inside out and adjust on face.
 
-####Results
+#### Results
 
 The end result looked like a diaper on your face. Not my favorite solution and no one in my family was on board with this one.
 
-###Solution Three
+### Solution Three
 
 So despite the not ideal results, the previous solution actually did give me an idea. I really liked using the seams for the ear pieces.
 
-####Materials needed: 
+#### Materials needed: 
 1. couple of old shirts
 2. scissors
 
-####Steps
+#### Steps
 1. Cut the shirts along seams and into rectangles of 14 inches by 5 or 6 inches.
 <img src="https://BecWagner.github.io/img/mask2.png" alt="mask2">
 2. Cut along the seams and save the strips.
@@ -95,7 +95,7 @@ So despite the not ideal results, the previous solution actually did give me an 
 6. Put on your face and adjust.
 <img src="https://BecWagner.github.io/img/mask2.png" alt="mask2">
 
-####Results
+#### Results
 
 We have a winner. The mask here looks most like the masks other people are wearing and using in the stores. This is the easiest solution from a very low difficulty level and how quick it took to make multiple. Also it is the best solution of the three in my opinion for fit. This option can be very quickly and easily adjusted for different sized faces. I do have to note that one member of my family still prefers the first solution since it is single layer instead of doubled.
 
@@ -106,7 +106,7 @@ I decided to hang them on the key rack on the way out of the door as a great way
 
 <img src="https://BecWagner.github.io/img/mask2.png" alt="mask2">
 
-##Lessons Learned
+## Lessons Learned
 
 1. Use shirts that are cotton. Even athletic sports jersey material wasn't a good material for breathing for any length of time.
 2. Put down newspaper underneath the material if using the marker.
