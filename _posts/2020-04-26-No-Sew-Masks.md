@@ -23,30 +23,30 @@ My oldest child started working his first job very recently at the local grocery
 #### Steps
 1. Cut the manilla folder in the correct shape to use as a guide for the shape needed on the shirts.
 
-<img src="https://BecWagner.github.io/img/mask1.jpg" alt="mask1">
-<img src="https://BecWagner.github.io/img/mask2.jpg" alt="mask2">
+<img src="https://BecWagner.github.io/img/mask1.JPG" alt="mask1">
+<img src="https://BecWagner.github.io/img/mask2.JPG" alt="mask2">
 
 2. Cut the shirts along seams and into rectangles of 13 inches by 7 inches.
 
 3. Outline the folder on the shirt. Use chalk for black or dark material. Use permanent marker for anything else. Remember to put down newspaper under if you are using the marker. You are welcome!
 
-<img src="https://BecWagner.github.io/img/mask3.jpg" alt="mask3">
-<img src="https://BecWagner.github.io/img/mask4.jpg" alt="mask4">
+<img src="https://BecWagner.github.io/img/mask3.JPG" alt="mask3">
+<img src="https://BecWagner.github.io/img/mask4.JPG" alt="mask4">
 
 4. Cut the shirt just inside of the outline.
 
-<img src="https://BecWagner.github.io/img/mask5.jpg" alt="mask5">
+<img src="https://BecWagner.github.io/img/mask5.JPG" alt="mask5">
 <img src="https://BecWagner.github.io/img/mask6.jpg" alt="mask6">
 
 5. Cut the ear slits. I did this by visually guessing approximately where they should go.
 
-<img src="https://BecWagner.github.io/img/mask7.jpg" alt="mask7">
+<img src="https://BecWagner.github.io/img/mask7.JPG" alt="mask7">
 
 #### Results
 
 This was not quite as good as the store provided ones, but not terrible. The bottom wasn't as snug.
 
-<img src="https://BecWagner.github.io/img/mask8.jpg" alt="mask8">
+<img src="https://BecWagner.github.io/img/mask8.JPG" alt="mask8">
 <img src="https://BecWagner.github.io/img/mask9.jpg" alt="mask9">
 <img src="https://BecWagner.github.io/img/mask10.jpg" alt="mask10">
 
