@@ -21,26 +21,26 @@ My oldest child started working his first job very recently at the local grocery
 4. scissors
 
 #### Steps
-1. Cut the manilla folder in the correct shape to use as a guide for the shape needed on the shirts.
+1 - Cut the manilla folder in the correct shape to use as a guide for the shape needed on the shirts.
 
 <img src="https://BecWagner.github.io/img/mask1.JPG" alt="mask1">
 <img src="https://BecWagner.github.io/img/mask2.JPG" alt="mask2">
 
-2. Cut the shirts along seams and into rectangles of 13 inches by 7 inches.
+2 - Cut the shirts along seams and into rectangles of 13 inches by 7 inches.
 
-3. Outline the folder on the shirt. Use chalk for black or dark material. Use permanent marker for anything else. Remember to put down newspaper under if you are using the marker. You are welcome!
+3 - Outline the folder on the shirt. Use chalk for black or dark material. Use permanent marker for anything else. Remember to put down newspaper under if you are using the marker. You are welcome!
 
 <img src="https://BecWagner.github.io/img/mask3.JPG" alt="mask3">
+<img src="https://BecWagner.github.io/img/mask7.JPG" alt="mask7">
+
+4 - Cut the shirt just inside of the outline.
+
 <img src="https://BecWagner.github.io/img/mask4.JPG" alt="mask4">
-
-4. Cut the shirt just inside of the outline.
-
-<img src="https://BecWagner.github.io/img/mask5.JPG" alt="mask5">
 <img src="https://BecWagner.github.io/img/mask6.jpg" alt="mask6">
 
-5. Cut the ear slits. I did this by visually guessing approximately where they should go.
+5 - Cut the ear slits. I did this by visually guessing approximately where they should go.
 
-<img src="https://BecWagner.github.io/img/mask7.JPG" alt="mask7">
+<img src="https://BecWagner.github.io/img/mask5.JPG" alt="mask5">
 
 #### Results
 
@@ -67,7 +67,7 @@ This was not quite as good as the store provided ones, but not terrible. The bot
 
 5. Using the seam strips, tie from one corner to another. Watch the [video](https://www.youtube.com/watch?v=VqHHViHKfrg) so this makes sense. Repeat with the other side.
 
-7. Flip inside out and adjust on face.
+6. Flip inside out and adjust on face.
 
 #### Results
 
@@ -82,36 +82,35 @@ So despite the not ideal results, the previous solution actually did give me an 
 2. scissors
 
 #### Steps
-1. Cut the shirts along seams and into rectangles of 14 inches by 5 or 6 inches.
+1 - Cut the shirts along seams and into rectangles of 14 inches by 5 or 6 inches.
 
 <img src="https://BecWagner.github.io/img/mask11.jpg" alt="mask11">
 <img src="https://BecWagner.github.io/img/mask12.jpg" alt="mask12">
 
-2. Cut along the seams and save the strips.
+2 - Cut along the seams and save the strips.
 
-3. Cut seam strips to 8 inches.
+3 - Cut seam strips to 8 inches.
 
 <img src="https://BecWagner.github.io/img/mask13.jpg" alt="mask13">
 
-4. Tie ends in a knot and trim. Repeat.
+4 - Tie ends in a knot and trim. Repeat.
 
 <img src="https://BecWagner.github.io/img/mask14.jpg" alt="mask14">
 <img src="https://BecWagner.github.io/img/mask15.jpg" alt="mask15">
 
-5. Pull one side of the rectangle through the loop and fold over to 
+5 - Pull one side of the rectangle through the loop and fold over to 
 the middle. Repeat with the other side.
 
 <img src="https://BecWagner.github.io/img/mask.MOV" alt="mask">
-<img src="https://BecWagner.github.io/img/mask16.jpg" alt="mask16">
 <img src="https://BecWagner.github.io/img/mask17.jpg" alt="mask17">
 
-6. Put on your face and adjust.
+6 - Put on your face and adjust.
 
 <img src="https://BecWagner.github.io/img/mask18.jpg" alt="mask18">
 
 #### Results
 
-We have a winner. The mask here looks most like the masks other people are wearing and using in the stores. This is the easiest solution from a very low difficulty level and how quick it took to make multiple. Also it is the best solution of the three in my opinion for fit. This option can be very quickly and easily adjusted for different sized faces. I do have to note that one member of my family still prefers the first solution since it is single layer instead of doubled.
+We have a winner. The mask here looks most like the masks other people are wearing and using in the stores. This is the easiest and quickest solution. Also it is the best fit of the three in my opinion. This option can be very quickly and easily adjusted for different sized faces. I do have to note that one member of my family still prefers the first solution since it is single layer instead of doubled.
 
 I decided to hang them on the key rack on the way out of the door as a great way to remind someone (me) to grab one when grabbing the keys to leave the house.
 
