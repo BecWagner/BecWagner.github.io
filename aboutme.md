@@ -11,4 +11,4 @@ My name is Becky Wagner. I have the following qualities:
 
 ### my history
 
-Check out [my LinkedIn](https://www.linkedin.com/in/becky-wagner-bb356924/) and it will answer **all** your questions.
+Check out [my LinkedIn](https://www.linkedin.com/in/bec-wagner/) and it will answer **all** your questions.
